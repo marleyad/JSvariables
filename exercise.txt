@@ -3,7 +3,7 @@
 
   var had a global scope. let has a block scope. var was also the first variable type for Javascript. You are able to redeclare with a var variable but you aren't able to do that with let. var is also 'hoistable'
 
-2. What is the difference between var and const?
+2. What is the difference between var and const? 
 
   var has a global scope and const has a block scope. You are able to use var for reassigning and redeclaring. You can't reassign or redeclare with const. 
 
