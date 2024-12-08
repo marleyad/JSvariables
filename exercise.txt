@@ -1,5 +1,5 @@
  
-1. What is the difference between var and let?   
+1. What is the difference between var and let?    
 
   var had a global scope. let has a block scope. var was also the first variable type for Javascript. You are able to redeclare with a var variable but you aren't able to do that with let. var is also 'hoistable'
 
