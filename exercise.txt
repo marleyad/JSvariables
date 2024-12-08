@@ -9,7 +9,7 @@
 
 3. What is the difference between let and const?
 
-  You can reassign let but you can't do that with const. 
+  You can reassign let but you can't do that with const.    
 
 4. What is hoisting?
 
